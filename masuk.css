@@ -1,0 +1,18 @@
+/* mengatur warna backgroud dan padding pada tag body bagian atas agar form tidak menempel diatas */
+body {
+  background-image: url(./img/Rectangle.png);
+  padding-top: 3vh;
+  color: rgb(255, 242, 240);
+}
+
+/* mengatur warna backgroud form */
+form {
+  margin-top: 20%;
+  background: rgb(90, 105, 112);
+}
+
+/* mengatur border dan padding class form-container */
+.form-container {
+  border-radius: 10px;
+  padding: 30px;
+}
